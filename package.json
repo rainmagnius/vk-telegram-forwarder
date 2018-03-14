@@ -1,0 +1,22 @@
+{
+  "name": "vk-telegram-forwarder",
+  "version": "0.0.1",
+  "description": "",
+  "main": "config.js",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0",
+    "node-vk-sdk": "^1.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vk",
+    "telegram",
+    "bot",
+    "forward"
+  ],
+  "author": "Constantine Timerkhanov",
+  "license": "ISC"
+}
